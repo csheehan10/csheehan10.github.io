@@ -13,13 +13,13 @@ My research interests include computational-statistical gaps, high-dimensional s
 
 You can contact me at conor dot sheehan at yale dot edu.
 
-## Papers
+## Papers (_all authors alphabetical_)
 - **On the Low-Temperature MCMC threshold: the cases of sparse tensor PCA, sparse regression, and a geometric rule**  
   [arXiv:2408.00746](https://arxiv.org/abs/2408.00746)  
   *Zongchen Chen, Conor Sheehan, and Ilias Zadik, 2024*
 
 - **Almost-Optimal Local-Search Methods for Sparse Tensor PCA**
   [arXiv:2506.09959](https://arxiv.org/abs/2506.09959)
-  *Conor Sheehan, Maxwell Lovig, Konstantinos Tsirkas, Ilias Zadik, 2025*
+  *Maxwell Lovig, Conor Sheehan, Konstantinos Tsirkas, Ilias Zadik, 2025*
 
 
