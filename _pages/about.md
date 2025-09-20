@@ -12,11 +12,12 @@ I am a fourth year PhD in the Department of Statistics and Data Science at Yale 
 My research interests include computational-statistical gaps, high-dimensional statistics, and theoretical machine learning. In particular, I am currently interested in computational hardness for sampling problems. 
 
 ## Papers
+- **On the Low-Temperature MCMC threshold: the cases of sparse tensor PCA, sparse regression, and a geometric rule**  
+  [arXiv:2408.00746](https://arxiv.org/abs/2408.00746)  
+  *Zongchen Chen, Conor Sheehan, and Ilias Zadik, 2024*
 
 - **Almost-Optimal Local-Search Methods for Sparse Tensor PCA**
   [arXiv:2506.09959](https://arxiv.org/abs/2506.09959)
-  *Conor Sheehan, Maxwell Lovig, Konstantinos Tsirkas, Ilias Zadik*
+  *Conor Sheehan, Maxwell Lovig, Konstantinos Tsirkas, Ilias Zadik, 2025*
 
-- **On the Low-Temperature MCMC threshold: the cases of sparse tensor PCA, sparse regression, and a geometric rule**  
-  [arXiv:2408.00746](https://arxiv.org/abs/2408.00746)  
-  *Zongchen Chen, Conor Sheehan, and Ilias Zadik*
+
