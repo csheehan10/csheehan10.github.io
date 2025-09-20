@@ -11,6 +11,8 @@ I am a fourth year PhD in the Department of Statistics and Data Science at Yale 
 
 My research interests include computational-statistical gaps, high-dimensional statistics, and theoretical machine learning. In particular, I am currently interested in computational hardness for sampling problems. 
 
+You can contact me at conor dot sheehan at yale dot edu.
+
 ## Papers
 - **On the Low-Temperature MCMC threshold: the cases of sparse tensor PCA, sparse regression, and a geometric rule**  
   [arXiv:2408.00746](https://arxiv.org/abs/2408.00746)  
