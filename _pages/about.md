@@ -21,6 +21,6 @@ _Note: as is the norm in my field, all authors are listed alphabetically._
 
 - **Almost-Optimal Local-Search Methods for Sparse Tensor PCA**
   [arXiv:2506.09959](https://arxiv.org/abs/2506.09959)
-  *Maxwell Lovig, Conor Sheehan, Konstantinos Tsirkas, Ilias Zadik, 2025*
+  *Maxwell Lovig, Conor Sheehan, Konstantinos Tsirkas, Ilias Zadik, forthcoming in Annals of Applied Probability.*
 
 
