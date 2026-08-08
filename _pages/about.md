@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Phd candidate in the Department of Statistics and Data Science at Yale University, advised by [Ilias Zadik](https://iliaszadik.github.io/). I received my MSc in Statistics from the University of St Andrews in 2021, and my BA in Philosophy, Politics, and Economics from the University of Oxford in 2020. 
+I am a PhD candidate in the Department of Statistics and Data Science at Yale University, advised by [Ilias Zadik](https://iliaszadik.github.io/). I received my MSc in Statistics from the University of St Andrews in 2021, and my BA in Philosophy, Politics, and Economics from the University of Oxford in 2020. 
 
 My research interests include computational-statistical gaps, high-dimensional statistics, and theoretical machine learning. In particular, I am currently interested in computational hardness for sampling problems. 
 
